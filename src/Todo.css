@@ -1,0 +1,13 @@
+.todo_list{
+    text-align:center ;
+}
+.listing{
+    text-align: center;
+}
+.MuiList-padding{
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto!important;
+    background: #ececec;
+    padding-right: 100px!important;
+}
